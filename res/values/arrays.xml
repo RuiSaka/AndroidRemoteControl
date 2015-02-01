@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SEARCH_TYPE">
+        <item>任务单生产情况统计</item>
+        <item>任务单材料使用情况</item>
+        <item>任务单车辆运送情况</item>
+        <item>材料库存情况统计表</item>
+    </string-array>
+</resources>
